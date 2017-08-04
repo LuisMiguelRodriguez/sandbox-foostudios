@@ -1,0 +1,58 @@
+#firstJumbo{
+	margin: 100px 100px 10px 100px;
+}
+
+#logo{
+	width:100px;
+	height: 100px;
+}
+
+#theImage{
+	position:absolute;
+	top:90px;
+	right:30px;
+}
+
+.btn{
+	width:300px;
+	height:100px;
+	font-size:30px;
+	margin-left:200px;
+	padding-top:20px;
+}
+.jumbotron{
+	
+	margin-right:100px;
+	margin-left:100px;
+	background-color:white;
+
+}
+#lifeHeader{
+	text-align:center;
+}
+
+#blankTshirt{
+	margin-right:300px;
+}
+
+.navTabs{
+	margin-top:30px;
+	color:white;
+}
+
+.jumboHeader, #captions, #captions2{
+	margin-left:40px;
+}
+
+/*All content needs a margin-right feature*/
+
+#footerList{
+	margin-left:150px;
+}
+#list4{
+	margin-top:100px;
+}
+footer{
+	background-color:black;
+	color:white;
+}
