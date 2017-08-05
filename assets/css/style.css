@@ -91,15 +91,12 @@ footer{
 	margin-top: 120px;
 }
 
+
 /*after this point this is the product page*/
 /*product page */
 
 .left-column{
 	margin-top:200px;
-}
-
-body{
-	font-family: 'Roboto', sans-serif;
 }
 
 #main-container {
@@ -219,5 +216,4 @@ color-choose input[type="radio"]:checked + label span {
 	background-repeat:no-repeat;
 	background-position:center;
 }
-
 
