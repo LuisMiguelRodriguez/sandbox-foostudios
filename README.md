@@ -1,12 +1,15 @@
 # sandbox-foostudios
  ### For first Run do steps 1 -11 if project is already forked and worked on do steps 4 - 11
+ 
+ 
  ### step#1 Fork repo you want to work on
  
  ### step#2 git clone forked repo
 
  ### step#3 git remote add upstream -original repo URL that you forked- //this allows you to connect to the original repo you cloned
 
- ### REPEAT STEPS BELOW IF YOU HAVE ALREADY STEPS 1 -11 once before
+ ### REPEAT STEPS BELOW IF YOU HAVE ALREADY DONE STEPS 1 -11 once before
+ 
  
  ### step#4 git branch new-features // create a new git branch
 
