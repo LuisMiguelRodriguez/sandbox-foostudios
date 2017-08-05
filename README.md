@@ -30,7 +30,7 @@
 
  ### step#11 now you will need to update your master branch run git pull upstream master 
 
-git fetch upstream
-git checkout master
-git merge upstream/master
-git push origin master
+ git fetch upstream
+ git checkout master
+ git merge upstream/master
+ git push origin master
