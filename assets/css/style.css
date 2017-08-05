@@ -216,4 +216,15 @@ color-choose input[type="radio"]:checked + label span {
 	background-repeat:no-repeat;
 	background-position:center;
 }
+.bioPictures{
+	width:300px;
+}
+
+#square{
+	margin-bottom:50px;
+}
+
+h4{
+	text-align:center;
+}
 
